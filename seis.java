@@ -9,3 +9,4 @@ public class seis {
             //RESULTADO= 100  200  0
     }
 }
+

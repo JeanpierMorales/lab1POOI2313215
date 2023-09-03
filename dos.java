@@ -10,4 +10,6 @@ public class dos {
             System.out.println("2222");
             // RESULTADO: NO SALE NADA YA QUE NO SE CUMPLE NINGUNA DE LAS SENTENCIAS
     }
+    
 }
+
