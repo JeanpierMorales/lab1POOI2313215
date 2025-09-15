@@ -1,4 +1,4 @@
-public class nueve {
+public class Ejercicio10{
     public static void main(String[] args) {
          //9. DADA LA SIGUIENTE SENTENCIA ,ENCONTRAR EL RESULTADO    
         int x=1, y=2, z=3; 
