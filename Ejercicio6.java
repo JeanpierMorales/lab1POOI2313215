@@ -1,4 +1,4 @@
-public class cinco {
+public class Ejercicio6 {
     public static void main(String[] args) {
         int x=1, y=2, z=3; 
         // 5. DADA LA SIGUIENTE SENTENCIA ,ENCONTRAR EL RESULTADO    
