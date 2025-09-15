@@ -1,4 +1,4 @@
-public class dos {
+public class Ejercicio9 {
     public static void main(String[] args) {
         //DADA LA SIGUIENTE SENTENCIA, ENCONTRAR EL RESULTADO
         // 2 DADA LA SIGUIENTE SENTENCIA ,ENCONTRAR EL RESULTADO 
