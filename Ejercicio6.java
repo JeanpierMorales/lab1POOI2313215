@@ -7,8 +7,7 @@ public class cinco {
         else{
             System.out.println("&&&&&");
             System.out.println("****");
-             /* RESULTADO: &&&&
-                          ****   */
+        
         }
     }
 }
