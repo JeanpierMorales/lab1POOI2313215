@@ -1,4 +1,4 @@
-public class seis {
+public class Ejercicio12 {
     public static void main(String[] args) {
         // 6. DADA LA SIGUIENTE SENTENCIA ,ENCONTRAR EL RESULTADO    
         int a1=100; int a2=200;
